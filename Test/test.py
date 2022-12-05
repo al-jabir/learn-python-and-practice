@@ -27,3 +27,18 @@ print(n**s)
 print(n/s)
 
 print(n*s%2)
+
+
+s = '1998'
+
+print(s)
+
+ns = 'I will be buy 3K for desktop gaming computer'
+
+print(ns)
+
+print(len(ns))
+
+ng = ''
+
+print(ng)
