@@ -14,3 +14,7 @@ myName = 'Hacking'
 load_Name = 'Loadings'
 
 print(myName,load_Name)
+
+mafia_king = 'will be mafia'
+
+print(mafia_king)
