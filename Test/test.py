@@ -2,7 +2,7 @@ print('kings')
 
 print('Hello Developers!')
 
-print("I will be developer");
+print("I will be developer")
 
 a = 'King'
 
@@ -10,7 +10,7 @@ b = 'mafia'
 
 print(b)
 
-x = a+' ' +b
+x = a+' ' + b
 print(x)
 
 a = 'Jack'
@@ -26,7 +26,7 @@ print(n**s)
 
 print(n/s)
 
-print(n*s%2)
+print(n*s % 2)
 
 
 s = '1998'
