@@ -24,3 +24,9 @@ print(myList[4])
 
 # again check of mylist data store
 print(myList)
+
+
+alist = []
+
+# type of list of data store
+print(type(alist))
